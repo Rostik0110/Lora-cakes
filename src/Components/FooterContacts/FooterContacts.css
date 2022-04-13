@@ -1,0 +1,65 @@
+.FooterContactsContent{
+    display: flex;
+    flex-wrap: wrap;
+    height: 250px;
+    background-color: black;
+    padding: 60px auto auto 70px;
+    padding-top: 60px;
+    padding-left: 70px;
+}
+
+.Contacts{
+    display: flex;
+    flex-wrap: wrap;
+    width: 590px;
+    height: 150px;
+}
+
+.PhoneNumber {
+    display: flex;
+    flex-wrap: wrap;
+    width: 430px;
+    height: 30px;
+    margin-top: -20px;
+}
+
+.ContactsTitle{
+    color: white;
+    font-weight: 600;
+    width: 430px;
+}
+
+.Number{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+
+.Addres{
+    display: flex;
+    flex-wrap: wrap;
+    width: 441px;
+    height: 30px;
+}
+
+.MyAddres{
+    text-decoration: none;
+    color: white;  
+    padding-top: 7px;
+    padding-left: 10px;
+}
+
+.SocialNetworks{
+    margin-left: 200px;
+}
+.SocialNetworkBox{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Instagram{
+    margin-right: 15px;
+}

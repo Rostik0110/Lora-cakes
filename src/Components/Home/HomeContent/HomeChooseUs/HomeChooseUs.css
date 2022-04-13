@@ -1,0 +1,64 @@
+.HomeChooseUsContent{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 83px 86px 72px 81px ;
+}
+
+.HomeChooseUsPicture{
+    width: 325px;
+    height: 325px;
+    background-color: aqua;
+    filter: drop-shadow(10px 10px 6px rgba(0, 0, 0, 0.25));
+}
+
+.HomeChooseUsTextContent{
+    width: 588px;
+    height: 325px;
+    margin-left: 250px;
+    border: 3px solid #D9B6B6;
+    box-sizing: border-box;
+}
+
+.HomeChooseUsTextTitle{
+    margin: 55px 103px 53px;
+    height: 92px; 
+    text-align: center;
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 112px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.HomeChooseUsText{
+    margin: 0px 15px;
+    font-family: 'Cookie';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+    color: #525151;
+}
+
+.sizeText{
+    font-size: 31px;
+}
+
+@font-face {
+    font-family: "Pacifico"; 
+    src: url("../../../../Fonts/Pacifico-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+
+@font-face {
+    font-family: "Cookie"; 
+    src: url("../../../../Fonts/Cookie-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 

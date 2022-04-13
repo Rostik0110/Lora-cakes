@@ -1,0 +1,17 @@
+.nameIngridient{
+    height: 30px;
+    width: 100px;
+    background-color: chocolate;
+    line-height: 15px;
+}
+.buttonAdd{
+    height: 30px;
+    width: 100px;
+    background-color: aqua;
+}
+.info{
+    display: block;
+}
+.info.active{
+    display: none;
+}

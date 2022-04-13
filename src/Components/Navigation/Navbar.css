@@ -1,0 +1,8 @@
+.NavbarContent{
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    height: 75px;
+    background: rgba(255, 255, 255, 0.69);
+    z-index: 2;
+}
