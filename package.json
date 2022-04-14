@@ -15,6 +15,7 @@
     "nodemon": "^2.0.15",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
+    "react-coverflow": "^0.2.20",
     "react-dom": "^17.0.2",
     "react-modal": "^3.14.4",
     "react-popupbox": "^2.0.8",
