@@ -1,6 +1,26 @@
-.HomeSlider{
+
+.container {
     height: 500px;
+    margin: 0 auto;
+    padding: 100px 40px 0px 40px;
     width: 1000px;
-    margin-left: 165px;
-    background-color: darkgray;
+  }
+  .round {
+    display: inline-block;
+    width: 400px ;
+    height: 400px;
+    object-fit: cover;
+  }
+  .slick-next:before, .slick-prev:before {
+      color: #000;
+      
+  }
+  .center .slick-center h3 {
+    -moz-transform: scale(1.08);
+    -ms-transform: scale(1.08);
+    -o-transform: scale(1.08);
+    -webkit-transform: scale(1.08);
+    color: #e67e22;
+    opacity: 1;
+    transform: scale(1.08); 
 }

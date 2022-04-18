@@ -6,6 +6,7 @@ import HomeSlider from './HomeContent/HomeSlider/HomeSlider';
 import HomeHugeChoice from './HomeContent/HomeHugeChoice/HomeHugeChoice';
 import FooterContacts from '../FooterContacts/FooterContacts';
 import Navbar from '../Navigation/Navbar';
+
 // import Filter from '../test filter/Filter';
 
 
