@@ -6,7 +6,6 @@ const Biography = () =>{
     return(
     <div>
         <Navbar/>
-        <p>gggg</p>
 
     </div>
     )
